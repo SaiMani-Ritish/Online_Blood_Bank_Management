@@ -14,7 +14,7 @@ This research presents an innovative blood bank management system built on **AWS
 
 ---
 
-## Technologies Used
+## Technologies Discussed
 - **AWS Lambda**, **RDS**, **DynamoDB**  
 - **IoT Core**, **Kinesis**, **Timestream**  
 - **Cognito**, **CloudFront**, **Route 53**  
@@ -22,8 +22,5 @@ This research presents an innovative blood bank management system built on **AWS
 
 ---
 
-## Authors
-- **Ayush Kumar Gupta**   
+## Author   
 - **Sai Mani Ritish Upadhyayula**  
-- **Vidhiben Ashokbhai Vanani**  
-- **Teja Sree Kokkanti**
